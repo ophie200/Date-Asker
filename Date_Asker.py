@@ -15,7 +15,7 @@ while loop == 1:
     if answer in no:
         print('Aww. Sorry to hear that. Take it easy!')
         break
-else:
-    print("Please enter a valid entry. I can't handle maybes. Only, y/n. \n").title()
-    loop == 1
+    else:
+        print("Please enter a valid entry. I can't handle maybes. Only, y/n. \n")
+        loop == 1
         
